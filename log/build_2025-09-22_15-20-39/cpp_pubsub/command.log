@@ -1,6 +1,0 @@
-Invoking command in '/project-storm/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /project-storm/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/project-storm/install/cpp_pubsub
-Invoked command in '/project-storm/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /project-storm/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/project-storm/install/cpp_pubsub
-Invoking command in '/project-storm/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /project-storm/build/cpp_pubsub -- -j8 -l8
-Invoked command in '/project-storm/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /project-storm/build/cpp_pubsub -- -j8 -l8
-Invoking command in '/project-storm/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /project-storm/build/cpp_pubsub
-Invoked command in '/project-storm/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /project-storm/build/cpp_pubsub
