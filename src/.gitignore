@@ -1,8 +1,0 @@
-# Ignore default names for colcon created folders
-/build/
-/install/
-/log/
-
-Dockerfile
-docker-compose.yml
-
